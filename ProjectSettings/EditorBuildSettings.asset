@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Stitle.unity
+    guid: 53fdf2d7f3dbdaa418bcffebae271074
+  - enabled: 1
+    path: Assets/Scenes/Sopen.unity
+    guid: 90d86ca2e0199b744920054275fccf95
+  - enabled: 1
+    path: Assets/Scenes/Smain.unity
+    guid: 211630aa8b42be549b9abc8ac5165d64
+  - enabled: 1
+    path: Assets/Scenes/SmainFake.unity
+    guid: bb3fc517aefb09d4c91f880c5737e49e
+  - enabled: 1
+    path: Assets/Scenes/SblueRoom.unity
+    guid: afcbd27e2b689af4bb370f78ee9f6041
+  - enabled: 1
+    path: Assets/Scenes/SredRoom.unity
+    guid: b2b437b5c1cb2c1459191a8ca43efcb7
+  - enabled: 1
+    path: Assets/Scenes/Sbalcony.unity
+    guid: 6dfdd715fd5eb7249bd1a378f44d107f
+  - enabled: 1
+    path: Assets/Scenes/Sout.unity
+    guid: f14e049efdb3c114faa2ce07ff83a992
+  - enabled: 1
+    path: Assets/Scenes/SpurpleRoom.unity
+    guid: 7817412f3dac8f3429387119bc6ef6f7
+  - enabled: 1
+    path: Assets/Scenes/ARcamera.unity
+    guid: a733859105d6cca47957821c50330e63
+  - enabled: 1
+    path: Assets/Scenes/Sbird.unity
+    guid: f524ea5d06a6d3848adee1b21a2fd190
+  - enabled: 1
+    path: Assets/Scenes/Schuchu.unity
+    guid: 1bb3406589c3bd34cb7e450bb725313f
+  - enabled: 1
+    path: Assets/Scenes/Sroad.unity
+    guid: e355e459e4ff4fb4cbef4b5fb95f725a
+  - enabled: 1
+    path: Assets/Scenes/Sanimation.unity
+    guid: d7a8001e72e9e9b449ae4ccbee62f721
